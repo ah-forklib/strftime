@@ -2,18 +2,19 @@
 
 package strftime_test
 
+/*
+
 import (
 	"bytes"
+	fastly "github.com/fastly/go-utils/strftime"
+	jehiah "github.com/jehiah/go-strftime"
+	lestrrat "github.com/lestrrat-go/strftime"
+	tebeka "github.com/tebeka/strftime"
 	"log"
 	"net/http"
 	_ "net/http/pprof"
 	"testing"
 	"time"
-
-	jehiah "github.com/jehiah/go-strftime"
-	fastly "github.com/fastly/go-utils/strftime"
-	lestrrat "github.com/lestrrat-go/strftime"
-	tebeka "github.com/tebeka/strftime"
 )
 
 func init() {
@@ -78,3 +79,5 @@ func BenchmarkLestrratCachedWriter(b *testing.B) {
 		f.FormatString(t)
 	}
 }
+
+*/
